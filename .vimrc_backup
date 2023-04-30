@@ -1,0 +1,23 @@
+" Enable type file detection. Vim will be able to try to detect the type of file in use.
+filetype on
+
+" Enable plugins and load plugin for the detected file type.
+filetype plugin on
+
+" Load an indent file for the detected file type.
+filetype indent on
+
+" Turn syntax highlighting on.
+syntax on
+
+" SET Configurations
+set number            " Add numbers to each line on the left-hand side.
+set cursorline        " Highlight cursor line underneath the cursor horizontally.
+set cursorcolumn      " Highlight cursor line underneath the cursor vertically.
+set relativenumber
+set tabstop=2         " Set tab width to 2 columns.
+set shiftwidth=2      " Set shift width to 2 spaces.
+set expandtab
+
+set background=dark
+"colorscheme 
