@@ -1,3 +1,6 @@
 [submodule "pack/vendor/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/colors/opt/iceberg.vim"]
+	path = pack/colors/opt/iceberg.vim
+	url = https://github.com/cocopon/iceberg.vim.git
